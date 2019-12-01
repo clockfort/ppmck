@@ -1,5 +1,5 @@
-# Sound Driver for FAMICOM / NES [MCK] #
-Last Edited 2003.02.28
+# Sound Driver for FAMICOM / NES (MCK / MML) #
+Last updated 2019.11.30
         
 ## What's this ?
 This is a sound driver for the Famicom.
